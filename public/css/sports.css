@@ -1,0 +1,52 @@
+
+.boxblueorange
+{
+    text-shadow:1px 1px 0 rgba(115,115,115,1);
+    font-weight:bold;color:#FFFFF5;
+    background-color:#2BA2E6;
+    border: 2px solid #FFB829;
+    letter-spacing:1pt;
+    word-spacing:9pt;
+    font-size:40px;
+    text-align:center;
+    font-family:arial, helvetica, sans-serif;line-height:1;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.carousel-caption {
+    background-color: skyblue;
+    font-size: 50px; 
+    height: 75px;
+    width: 100%;
+    position:absolute ;
+    left: 0px;
+    bottom: 0px;
+    background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(104, 104, 104, 0.5);
+}
+
+.tennistextcarousel {
+    color: white;
+    font-size: 16px;
+    line-height: 12px;
+    text-align: left;
+    padding-left: 15px;
+    
+}
+
+.tennistextcouch {
+    color: whitesmoke;
+    font-size: 14px;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+.bgrd {
+     background-size: 80px 60px;
+    background-repeat: no-repeat;
+    height: 505px;
+}
+    
