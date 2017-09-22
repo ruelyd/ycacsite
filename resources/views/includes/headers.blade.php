@@ -47,7 +47,7 @@
                 </li>
 
             <li><a href="{{route('access')}}">ACCESS</a></li>
-            <li><a href="{{route('career')}}">CONTACT</a></li>
+            <li><a href="{{route('contact')}}">CONTACT</a></li>
       </ul>
    
     </div>
